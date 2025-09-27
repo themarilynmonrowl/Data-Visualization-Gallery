@@ -1,0 +1,5 @@
+matplotlib>=3.6
+pandas>=1.5
+numpy>=1.23
+seaborn>=0.12  # for loading sample datasets
+plotly>=5.18   # for accessing sample airline dataset as a data source
